@@ -5,24 +5,24 @@
       "Name": "Your first action",
       "States": [
         {
-          "Image": "images/action1.key",
+          "Image": "images/action1.key.orange",
           "TitleAlignment": "middle",
           "FontSize": "15"
         }
       ],
       "SupportedInMultiActions": false,
       "Tooltip": "",
-      "UUID": "reverse.dns.formatted.namespace.action"
+      "UUID": "com.kristianfreeman.streamdeck-sonos.adjustVolume"
     }
   ],
   "SDKVersion": 2,
-  "Author": "your name",
+  "Author": "Kristian Freeman",
   "CodePath": "plugin.html",
   "PropertyInspectorPath": "propertyinspector.html",
-  "Name": "streamdeck template",
+  "Name": "Stream Deck Sonos Integration",
   "Description": "a description",
   "Icon": "images/pluginIcon",
-  "Version": "0.0.0-development",
+  "Version": "0.0.0",
   "OS": [
     {
       "Platform": "mac",

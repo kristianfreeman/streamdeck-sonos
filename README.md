@@ -1,3 +1,8 @@
+WIP repo for managing Sonos speakers from Stream Deck - including encoder support
+
+<details>
+<summary>Template README</summary>
+
 # streamdeck-ts-template
 
 ![Build/Test](https://github.com/rweich/streamdeck-ts-template/workflows/Build%2FTest/badge.svg)
@@ -69,3 +74,4 @@ If you don't want to use that, remove the `@rweich/eslint-config` and `@rweich/p
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frweich%2Fstreamdeck-ts-template.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frweich%2Fstreamdeck-ts-template?ref=badge_large)
+</details>
